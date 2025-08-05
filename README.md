@@ -1,2 +1,2 @@
 # Windows-Driver-Development
-Windows driver development guides, knowledge and samples
+This repository includes whole information and samples that i have created during my journey in the windows driver development.
